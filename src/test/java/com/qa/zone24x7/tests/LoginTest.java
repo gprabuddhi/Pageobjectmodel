@@ -17,6 +17,7 @@ DashboardPage dashboardPage;
     loginPage.enterPassword("123");
     dashboardPage= loginPage.clickLoginButton();
     // test comment
+    // test comment2
 }
 
 
